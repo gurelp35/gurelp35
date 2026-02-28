@@ -73,8 +73,7 @@ Designed and developed a structured multi-page website using HTML and CSS, focus
 
 ## Connect With Me
 
-GitHub: https://github.com/gurelp35  
-Portfolio: https://gurelp35.github.io  
+GitHub: https://github.com/gurelp35    
 
 ---
  Always learning. Always building.
