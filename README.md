@@ -1,79 +1,55 @@
-# Hi, I'm Pakize
+# Hi, I'm Pakize Gurel
 
-BA (Hons) Digital Media Student  
- Aspiring Software Developer | UX-Oriented Technologist  
- London, United Kingdom  
+I am a second-year Digital Media / Web Development student at the University of Roehampton with a strong interest in front-end development, UI/UX design and software engineering.
 
----
+I have experience creating individual and team-based academic projects using HTML, CSS, JavaScript, Figma, GitHub, Node.js, Express.js and MySQL. My work includes responsive websites, interactive web apps, UX prototypes, digital campaigns and database-driven applications.
 
-##  About Me
+## Technical Skills
 
-I am a detail-oriented Digital Media student specialising in Software Engineering, Web Development, and UX Design.  
-My work combines structured programming logic with user-centred design principles to build scalable and intuitive digital solutions.
+### Web Development
+- HTML
+- CSS
+- JavaScript
+- Responsive Web Design
+- Accessibility
 
-I enjoy translating complex problems into clean, modular, and maintainable systems.
+### UI/UX Design
+- Figma
+- Wireframes
+- Prototypes
+- User flows
+- User-centred design
 
----
+### Software & Database
+- Node.js
+- Express.js
+- Pug
+- MySQL
+- phpMyAdmin
+- Git & GitHub
 
-##  Technical Skills
-
-**Languages**
+### Programming
 - Python
 - Java
 - C++
-- JavaScript
-- HTML & CSS
 
-**Concepts**
-- Object-Oriented Programming (OOP)
-- MVC Architecture
-- Algorithm Design
-- Agile & Sprint Development
-- User-Centred Design
+## Projects
 
-**Tools**
-- GitHub
-- VS Code
-- Figma
-- Jupyter Notebook
-- MySQL (basic)
-- Docker (basic)
+### CalmSpace Wellbeing Web App
+A single-page wellbeing web app designed to support users with stress and overwhelm through mood check-ins, a breathing tool, resources and saved content.
 
----
+### Healthy Bite Responsive Website
+A multi-page healthy eating website created using HTML and CSS, with pages including Home, About, Services, How It Works, Blog and Contact.
 
-##  Featured Projects
+### Grevio Mobile App UX Prototype
+A group Figma prototype project for a textile recycling concept, including onboarding, login, QR scanning, rewards and profile screens.
 
-**SpareB&B Booking System (Java)**  
-Object-oriented booking system applying encapsulation, inheritance, and validation logic.
+### Database-Driven Gaming Web Application
+A group software engineering project using Node.js, Express.js, MySQL, Pug, Docker and GitHub.
 
-**Veterinary Pet Management System (C++)**  
-Structured class-based system with validation and file handling.
+### SolidariTee Digital Campaign
+A digital campaign project including posters and a promotional video for a student-led refugee support organisation.
 
- **Python Student Classification System**  
-Weighted score algorithm with automated category assignment.
+## Currently Looking For
 
- **UX Interactive Prototype (Figma)**  
-User flows, wireframes, and high-fidelity interactive design.
-
-**Manuel Bakery – Branding & Visual Identity**  
-Logo construction, banner layout design, and cohesive visual brand system development.
-
-**Healthy Bite – Responsive Web Design Project**  
-Designed and developed a structured multi-page website using HTML and CSS, focusing on layout, accessibility, and usability principles.
-
----
-
-## Current Focus
-
-- Strengthening backend development skills
-- Building scalable full-stack applications
-- Improving system architecture and clean code practices
-
----
-
-## Connect With Me
-
-GitHub: https://github.com/gurelp35    
-
----
- Always learning. Always building.
+I am currently looking for an internship or junior opportunity in front-end development, web development, software engineering, digital technology or analytics-driven digital products.
