@@ -1,6 +1,6 @@
 # Hi, I'm Pakize Gurel
 
-I am a second-year Digital Media / Web Development student at the University of Roehampton with a strong interest in front-end development, UI/UX design and software engineering.
+I am a Final-year BSc(Hons) Digital Media / Web Development student at the University of Roehampton with a strong interest in front-end development, UI/UX design and software engineering.
 
 I have experience creating individual and team-based academic projects using HTML, CSS, JavaScript, Figma, GitHub, Node.js, Express.js and MySQL. My work includes responsive websites, interactive web apps, UX prototypes, digital campaigns and database-driven applications.
 
