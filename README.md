@@ -1,6 +1,6 @@
 # Hi, I'm Pakize Gurel
 
-I am a Final-year BSc(Hons) Digital Media / Web Development student at the University of Roehampton with a strong interest in front-end development, UI/UX design and software engineering.
+I am a final-year BSc (Hons) Web Design and Development student at the University of Roehampton, graduating in 2027. I am interested in front-end development, UI/UX design and software engineering.
 
 I have experience creating individual and team-based academic projects using HTML, CSS, JavaScript, Figma, GitHub, Node.js, Express.js and MySQL. My work includes responsive websites, interactive web apps, UX prototypes, digital campaigns and database-driven applications.
 
@@ -32,6 +32,11 @@ I have experience creating individual and team-based academic projects using HTM
 - Python
 - Java
 - C++
+
+## Featured Live Projects
+
+- [Portfolio website](https://gurelp35.github.io/pakize_portfolio/) — selected web development, UX and software engineering work.
+- [CareerPilot AI](https://careerpilot-ai-platform-six.vercel.app/) ([source code](https://github.com/gurelp35/careerpilot_ai_platform)) — a Next.js and TypeScript graduate-readiness application featuring application tracking, job-description analysis and interview preparation.
 
 ## Projects
 
